@@ -1,4 +1,4 @@
-# Protein Sequence Retrieval Script using Biopython
+# Protein Sequence Retrieval
 This script is designed to retrieve protein sequences from the NCBI database using their unique protein IDs and save them in FASTA format. It utilizes the Biopython library to interact with the NCBI Entrez database and handle biological sequence data.
 
 ## Goal
